@@ -1,0 +1,50 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "yearPublished": 1960,
+    "genre": "Thriller",
+    "rating": 5,
+    "coverImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/640px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "yearPublished": 1925,
+    "genre": "Romance",
+    "rating": 4,
+    "coverImageURL": "https://m.media-amazon.com/images/I/81QuEGw8VPL._SL1500_.jpg"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "yearPublished": 1851,
+    "genre": "Adventure",
+    "rating": 3,
+    "coverImageURL": "https://m.media-amazon.com/images/I/91EQgLKb1TL._SL1500_.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "yearPublished": 1813,
+    "genre": "Romance",
+    "rating": 5,
+    "coverImageURL": "https://m.media-amazon.com/images/I/812wzoJvRLL._SL1396_.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "yearPublished": 1949,
+    "genre": "Dystopia",
+    "rating": 4,
+    "coverImageURL": "https://m.media-amazon.com/images/I/71rpa1-kyvL._SL1500_.jpg"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "yearPublished": 1818,
+    "genre": "Horror",
+    "rating": 4,
+    "coverImageURL": "https://www.modernista.se/sites/default/files/styles/omslag-huvudbild/public/bokomslag/shelley_frankenstein_omslag_inb-2.jpg"
+  }
+]
